@@ -2,9 +2,9 @@
 
 Technology used for this Application:
 
-MVVM
-Public API
-CollectionView
-URLSession 
-Unit Test 
+MVVM,
+Public API,
+CollectionView,
+URLSession,
+Unit Test, 
 CocoaPods
