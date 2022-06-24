@@ -1,0 +1,18 @@
+platform :ios, '9.0'
+
+target 'Currency Converter' do
+  use_frameworks!
+  
+  # Pods for Currency Converter
+  pod 'iOSDropDown', '~> 0.4'
+
+  target 'Currency ConverterTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'Currency ConverterUITests' do
+    # Pods for testing
+  end
+
+end
